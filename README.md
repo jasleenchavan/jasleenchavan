@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jasleenchavan
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Python
+- 📫 How to reach me jasleenchavan.96@gmail.com
